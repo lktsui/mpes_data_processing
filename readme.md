@@ -6,7 +6,7 @@ Installation:
 Dependencies:
 - Python 3.X
 - Numpy
-- Scipy
+- Scikit-learn
 - Pandas
 
 Usage: 
