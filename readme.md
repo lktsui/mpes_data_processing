@@ -10,4 +10,4 @@ Dependencies:
 - Pandas
 
 Usage: 
-- See examples 
+- See example.py
